@@ -1,2 +1,2 @@
 <?php
-$data;
+echo $saludo;

@@ -10,4 +10,8 @@ class Assets {
         
         return null;
     }
+
+    public function getHolaMundo($name){
+    	return 'Hola mundo '. $name;
+    }
 }
