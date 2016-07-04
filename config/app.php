@@ -162,7 +162,6 @@ return [
          */
         
         Esojtec\Messages\Providers\MessageServiceProvider::class
-
     ],
 
     /*
