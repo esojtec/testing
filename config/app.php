@@ -156,6 +156,12 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         App\Providers\AssetsServiceProvider::class,
+        
+        /*
+         * Application Esojtec Service Providers...
+         */
+        
+        Esojtec\Messages\Providers\MessageServiceProvider::class
 
     ],
 
@@ -203,6 +209,7 @@ return [
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
         'Assets' => App\Facades\AssetsFacade::class,
+        'Messages' => Esojtec\Messages\Facades\MessageFacade::class
 
     ],
 
