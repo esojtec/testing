@@ -71,6 +71,9 @@
             </div>
         </div>
     </nav>
+    <div class="container">
+        @include('message::message')
+    </div>
 
     @yield('content')
 

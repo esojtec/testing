@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a4ae91c26569806f802ffe88e5149cce",
+    "hash": "2048b0ba615b6fcd295c839d47fd9469",
     "content-hash": "a04b3eecf204b86f86a617596ccfd951",
     "packages": [
         {
@@ -167,12 +167,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/esojtec/message.git",
-                "reference": "daafc468e98dd06f0f47c18a63fe1af8659942e7"
+                "reference": "e74567087318d9450f0e702fbf48f98e0706ab15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/esojtec/message/zipball/daafc468e98dd06f0f47c18a63fe1af8659942e7",
-                "reference": "daafc468e98dd06f0f47c18a63fe1af8659942e7",
+                "url": "https://api.github.com/repos/esojtec/message/zipball/e74567087318d9450f0e702fbf48f98e0706ab15",
+                "reference": "e74567087318d9450f0e702fbf48f98e0706ab15",
                 "shasum": ""
             },
             "require": {
@@ -201,7 +201,7 @@
                 "source": "https://github.com/esojtec/message/tree/master",
                 "issues": "https://github.com/esojtec/message/issues"
             },
-            "time": "2016-07-04 15:56:03"
+            "time": "2016-07-06 14:30:49"
         },
         {
             "name": "jakub-onderka/php-console-color",
